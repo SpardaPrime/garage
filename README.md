@@ -1,5 +1,5 @@
 # Garage
-![](https://i.ibb.co/Jpf1wK8/prev.gif)
+![](https://i.ibb.co/xjvDn8X/prev1.gif)
 # You can use this app [here](https://itc-ads-4bdc2.firebaseapp.com/)
 # Technology stack :
 * **Vue**

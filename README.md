@@ -1,6 +1,6 @@
 # Garage
 
-![](https://i.ibb.co/GTHR5Lv/prev-2.gif)
+![](https://i.ibb.co/PmWzNfQ/prev.jpg)
 
 # You can use this app [here](https://itc-ads-4bdc2.firebaseapp.com/)
 # Technology stack :
